@@ -1,0 +1,2 @@
+config: /etc/dracut.conf.d/
+modules: /usr/lib/dracut/modules.d/
